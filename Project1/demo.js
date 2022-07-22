@@ -4,4 +4,4 @@ function light(){
 
 light();
 
-console.log("songlight1");
+console.log("songlight");
