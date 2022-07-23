@@ -73,5 +73,5 @@ Java.perform(()=>{
 
     // hook setonClickListener
 
-    //var btnLoginValue = Java.use("android.support.v7.app.AppCompatActivity");
+    var btnLoginValue = Java.use("android.support.v7.app.AppCompatActivity");
 })
